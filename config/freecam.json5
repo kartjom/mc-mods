@@ -23,7 +23,7 @@
 		"showPlayer": true,
 		"showHand": false,
 		"fullBright": false,
-		"showSubmersion": false
+		"showSubmersion": true
 	},
 	"utility": {
 		"disableOnDamage": true,
@@ -32,7 +32,7 @@
 		"interactionMode": "CAMERA"
 	},
 	"servers": {
-		"mode": "NONE",
+		"mode": "WHITELIST",
 		"whitelist": [],
 		"blacklist": []
 	},
